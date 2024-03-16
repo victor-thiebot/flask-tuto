@@ -1,0 +1,11 @@
+name: flask-env
+channels:
+  - defaults
+dependencies:
+  - plotly
+  - pandas
+  - python
+  - openpyxl
+  - flask
+  - xlsxwriter
+prefix: C:\Users\asus\anaconda3\envs\flask-env
